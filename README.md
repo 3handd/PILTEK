@@ -11,7 +11,7 @@ $ apt install figlet
 $ apt install ruby
 $ gem install lolcat
 $ git clone https://github.com/3handd/PILTEK
-$ cd VIRTEX
-$ chmod +x virtex.sh
-$ sh virtex.sh
+$ cd PILTEK
+$ chmod +x piltek.sh
+$ sh piltek.sh
 ```
